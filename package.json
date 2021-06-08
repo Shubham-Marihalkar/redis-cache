@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "ioredis": "^4.27.5",
+    "redis": "^3.1.2",
+    "redis-server": "^1.2.2"
+  }
+}
